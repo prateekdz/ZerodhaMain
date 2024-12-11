@@ -1,4 +1,9 @@
   "homepage": "hhttps://prateekdz.github.io/ZerodhaMain/",
+"scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
 {
   "name": "frontend",
   "version": "0.1.0",
