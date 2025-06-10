@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZerodhaMain/static/css/main.8d0a6613.css",
+    "main.js": "/ZerodhaMain/static/js/main.ae6a03aa.js",
+    "index.html": "/ZerodhaMain/index.html",
+    "main.8d0a6613.css.map": "/ZerodhaMain/static/css/main.8d0a6613.css.map",
+    "main.ae6a03aa.js.map": "/ZerodhaMain/static/js/main.ae6a03aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0a6613.css",
+    "static/js/main.ae6a03aa.js"
+  ]
+}
